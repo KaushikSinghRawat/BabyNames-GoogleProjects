@@ -8,6 +8,7 @@ Function:
 Extracts the names and rank from the .html file
 Sorts the names alphabetically and creates a new .txt file to store the results with the year at top.
 Values are stored individually on a new line in the .txt file.
+HTML files MUST be stored in the same folder as the python file.
 
 example output:
 2006
